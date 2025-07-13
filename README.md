@@ -16,12 +16,11 @@
 *如果出现问题请联系作者 小红书 @姜姜不吃糖（ID：582693457）
 # 3 Download/下载
 -Sebastian
-
-[MarriageDialogueSebastian.zh-CN.zip](https://github.com/user-attachments/files/18010071/MarriageDialogueSebastian.zh-CN.zip)
+[MarriageDialogueSebastian.zh-CN.zip](https://github.com/user-attachments/files/21206613/MarriageDialogueSebastian.zh-CN.zip)
 
 -Sam
+[MarriageDialogueSam.zh-CN.zip](https://github.com/user-attachments/files/21206612/MarriageDialogueSam.zh-CN.zip)
 
-[MarriageDialogueSam.zh-CN.zip](https://github.com/user-attachments/files/18010069/MarriageDialogueSam.zh-CN.zip)
 # 4 Usage method/使用方式
 1.下载需要的婚后对话替换文件并解压缩*不要重命名文件
 
