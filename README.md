@@ -19,10 +19,5 @@
 # 3 Download/下载
 https://www.nexusmods.com/stardewvalley/mods/35678
 
-5.完成并打开游戏测试是否触发
-
-*由于本mod是基于游戏本体文件的替换，如果按上述步骤完成文件替换后对话触发失败，可能是其他N网下载的对话拓展mod中含有替换游戏本体对话文件的指令覆盖了本文件，请自行排查mod。
-# 5 Subsequent development plan/后续开发计划
-*亚历克斯婚后对话开发中
-
--其余暂无-
+# 4 Subsequent development plan/后续开发计划
+-暂无-
